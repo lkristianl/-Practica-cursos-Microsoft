@@ -1,0 +1,7 @@
+C:\Users\Kris\Source\Repos\ETSISI.Infraestructura.Datos.Base\bin\Debug\netstandard2.0\ETSISI.Infraestructura.Datos.Base.deps.json
+C:\Users\Kris\Source\Repos\ETSISI.Infraestructura.Datos.Base\bin\Debug\netstandard2.0\ETSISI.Infraestructura.Datos.Base.dll
+C:\Users\Kris\Source\Repos\ETSISI.Infraestructura.Datos.Base\bin\Debug\netstandard2.0\ETSISI.Infraestructura.Datos.Base.pdb
+C:\Users\Kris\Source\Repos\ETSISI.Infraestructura.Datos.Base\obj\Debug\netstandard2.0\ETSISI.Infraestructura.Datos.Base.AssemblyInfoInputs.cache
+C:\Users\Kris\Source\Repos\ETSISI.Infraestructura.Datos.Base\obj\Debug\netstandard2.0\ETSISI.Infraestructura.Datos.Base.AssemblyInfo.cs
+C:\Users\Kris\Source\Repos\ETSISI.Infraestructura.Datos.Base\obj\Debug\netstandard2.0\ETSISI.Infraestructura.Datos.Base.dll
+C:\Users\Kris\Source\Repos\ETSISI.Infraestructura.Datos.Base\obj\Debug\netstandard2.0\ETSISI.Infraestructura.Datos.Base.pdb
